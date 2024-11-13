@@ -6,7 +6,7 @@ In this repo you will find a basic setup to get you started in your challenge.
 - `applications/database` contains a docker-compose file for the Postgres database
 
 ### Required tools
-- Java 11 (e.g. OpenJDK)
+- Java 17 (e.g. OpenJDK)
 - docker-compose
 - Maven 3
 
